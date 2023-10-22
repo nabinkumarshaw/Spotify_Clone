@@ -175,6 +175,7 @@ display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 1.5rem;
+
 }
 .card{
     background-color: #232323;
@@ -189,8 +190,6 @@ display: flex;
 .cards-container{
     display: flex;
    flex-wrap: wrap;
-  
-   
 }
 .card-img{
      width:100%;  
@@ -308,3 +307,6 @@ display: flex;
     width:1.5rem;
     margin-right: 1rem;
 }
+
+
+//310 lines of code
